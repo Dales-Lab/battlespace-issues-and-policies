@@ -1,5 +1,5 @@
-# Privacy Policy
-This Privacy Policy applies to all Battlespace services and integrations.
+# Battlespace Privacy Policy
+This Privacy Policy applies to all Battlespace services and integrations except where third party agreements and contracts have binding authority.
 
 ### Last Updated: 03/22/2019
 
