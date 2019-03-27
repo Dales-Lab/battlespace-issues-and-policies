@@ -68,6 +68,7 @@ We currently work with the following 3rd party services to provide this service:
 - Amazon Web Services ("AWS") - for file storage via Amazon S3 and Push Notifications via SNS. Any files you upload to our service are stored here and are identified by the identification id unique to your account. For Push Notifications we associate your device and Apple Push Notification Service ("APN") token information stored within the Service to Amazon ARN identifier to send Push Notifications to your device. No PII or LD is intentionally shared with AWS.
 - Stripe - for payment processing. The email account used to originally sign up for our service is disclosed along with any payment card information required to process payments. This information is stored securely by Stripe. We do not store any payment card information within our Service.
 - Digital Ocean ("DO") - our primary cloud hosting provider where our data resides. While we don't technically share your data with them this is where it lives and is securely stored.
+- Microsoft App Center - App Center is where the service sends anonymized usage statistics and application crash logs. No personally identifiable information is ever sent to App Center.
 
 However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
